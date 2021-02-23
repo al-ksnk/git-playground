@@ -22,7 +22,7 @@ namespace NiceProject
                 sum += number;
             }
 
-            return sum;
+            return allNumbers.Sum();
         }
     }
 }
